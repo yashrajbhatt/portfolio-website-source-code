@@ -1,10 +1,5 @@
-# portfolio-website-source-code
-This is my first portfolio website, built using HTML, CSS, and JavaScript. It showcases my skills, projects, and achievements in an interactive and responsive design.  🌟 Features: Fully responsive design 📱💻  Smooth animations &amp; transitions ✨  Interactive sections for projects, skills, and contact 🛠️📩  Clean and modern UI 
 
-
-
-------html and javascript code for my portfolio website------ 
-
+-------HTML and js code for my portfolio website-----------------------------------
 
 <!DOCTYPE html>
 <html lang="en">
@@ -184,7 +179,7 @@ This is my first portfolio website, built using HTML, CSS, and JavaScript. It sh
 
 
                     </p>
-                    <a href="#">Learn more</a>
+                    <a href="https://github.com/YASHRAJBHATT/PORTFOLIO-WEBSITE-SOURCECODE">Learn more</a>
                 </div>
                 <div>
                     <i class="fa-solid fa-code-compare"></i>
@@ -255,8 +250,7 @@ This is my first portfolio website, built using HTML, CSS, and JavaScript. It sh
     </body>
     </html>
 
-
------------css code for my portfolio website--------------
+-----------css code for my portfolio website-------------------------------------
 
 
 * {
@@ -587,5 +581,3 @@ nav ul li a:hover::after {
 
     }
 
-i hope my github repository help you a lot 
-    
